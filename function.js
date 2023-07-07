@@ -332,6 +332,10 @@ function mncsp1() {
             var frame = document.getElementById("vidio");
             frame.src = "https://www.spidertv.eu.org/p/mncsp-3.html";
    }
+function ss3hd() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://codepen.io/Vsbsbsvb/full/PodJNGx";
+}
    
  
 function spotv2() {
