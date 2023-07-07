@@ -310,16 +310,16 @@ function mncsp1() {
             frame.src = "https://arjunaaaaa.github.io/nyuri/tv/olahraga/tycs.html";
         }          
  
- function ss3-1() {
+ function ss31() {
             var frame = document.getElementById("vidio");
             frame.src = "https://sbolongo.xyz/ice/mncs3.html";
         }
-   function ss3-2() {
+   function ss32() {
             var frame = document.getElementById("vidio");
             frame.src = "https://mncsport3.livestreaming.repl.co";
    }
    
-   function ss3-3() {
+   function ss33() {
             var frame = document.getElementById("vidio");
             frame.src = "https://www.spidertv.eu.org/p/mncsp-3.html";
    }
