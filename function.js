@@ -334,7 +334,7 @@ function mncsp1() {
    }
 function ss3hd() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://codepen.io/Vsbsbsvb/full/PodJNGx";
+            frame.src = "https://mncsport3hd.livestreaming.repl.co";
 }
    
  
