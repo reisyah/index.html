@@ -19,10 +19,19 @@ function nsch205() {
             frame.src = "go:nsch205";
 }
 
-function yt1() {
+function indosial205() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://live.fc2.com/embedPlayer.php?id=72893726&lang=en&adultaccess=0&suggest=1&thumbnail=1&afid=72893726";
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/jwplayer/hls.html?file=https://deptokv1.herokuapp.com/index.php?id=205";
         }
+  function indosial13558() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/zhetv5";
+        }      
+  function indosial13559() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/zhetv6";
+        }            
+        
  
 function yt2() {
             var frame = document.getElementById("vidio");
