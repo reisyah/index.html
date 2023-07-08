@@ -18,6 +18,15 @@ function nsch205() {
             var frame = document.getElementById("vidio");
             frame.src = "go:nsch205";
 }
+function nsch13560() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nsch13560";
+}
+
+function nsch13561() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nsch13561";
+}
 
 function indosial205() {
             var frame = document.getElementById("vidio");
