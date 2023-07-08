@@ -137,12 +137,12 @@ function p2soco2() {
 
 function p2soco3() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/252503.m3u8";
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8";
 }
 
 function p2soco4() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8";
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8";
 }
     function p2soco5() {
             var frame = document.getElementById("vidio");
