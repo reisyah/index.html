@@ -126,7 +126,7 @@ function p2thapcam4() {
 
 function p2soco1() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/379816.m3u8";
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/427562.m3u8";
 }
 
 function p2soco2() {
