@@ -43,11 +43,11 @@ function vidiop13610() {
 }
 
 
-  function indosial13558() {
+  function indosialch13558() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/zhetv5";
         }      
-  function indosial13559() {
+  function indosialch13559() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/zhetv6";
         }            
