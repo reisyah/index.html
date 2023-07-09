@@ -28,10 +28,21 @@ function nsch13561() {
             frame.src = "go:nsch13561";
 }
 
-function indosial205() {
+function indosialp205() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/jwplayer/hls.html?file=https://deptokv1.herokuapp.com/index.php?id=205";
         }
+function vidiop13561() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/jwplayer/hls.html?file=https://deptokv1.herokuapp.com/index.php?id=13561";
+}
+
+function vidiop13610() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/jwplayer/hls.html?file=https://deptokv1.herokuapp.com/index.php?id=13610";
+}
+
+
   function indosial13558() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/zhetv5";
