@@ -28,6 +28,16 @@ function nsch13561() {
             frame.src = "go:nsch13561";
 }
 
+function nsch13696() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nsch13696";
+}
+
+function nsch206() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nsch206";
+}
+
 function indosialp205() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/jwplayer/hls.html?file=https://deptokv1.herokuapp.com/index.php?id=205";
