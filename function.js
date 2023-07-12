@@ -37,6 +37,10 @@ function nsch206() {
             var frame = document.getElementById("vidio");
             frame.src = "go:nsch206";
 }
+function avcauto() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:avcauto";
+}
 
 function indosialp205() {
             var frame = document.getElementById("vidio");
