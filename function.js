@@ -81,9 +81,9 @@ function yt3() {
             var frame = document.getElementById("vidio");
             frame.src = "https://lsbtv3.livestreaming.repl.co/player2.html?file=https://sagalada.shop/live/sd-1-3937822.m3u8";
    }
-   function pidio1() {
+   function p2avc13696() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player.html?file=https://vsd132.mycdn.me/hls/4985862425202.m3u8/sig/V0LXcIVOAFI/expires/1687696572664/srcIp/140.213.226.33/urls/45.136.21.57/clientType/0/srcAg/CHROME_ANDROID/mid/6539022900850/4985862425202_high/index.m3u8?";
+            frame.src = "https://reisyah.github.io/player/player2.html?file=https://stripriv.herokuapp.com/hls.m3u8?id=13696";
    }
    function pidio2() {
             var frame = document.getElementById("vidio");
