@@ -431,10 +431,7 @@ function spotv2() {
             frame.src = "https://player4.bolaboka.repl.co/index.html?file=https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8";
         }
         
-function soccerch() {
-            var frame = document.getElementById("vidio");
-            frame.src = "https://pisionplus.livebola.repl.co/soccerch.html";
-        }
+
      function mewatch() {
             var frame = document.getElementById("vidio");
             frame.src = "https://mulung--bolaboka.repl.co/";
