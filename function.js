@@ -326,6 +326,11 @@ function goinewsvp() {
             var frame = document.getElementById("vidio");
             frame.src = "go:inewsvp";
 }
+
+function nschinewsr() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nschinewsr";
+}
         
 function c1() {
             var frame = document.getElementById("vidio");
