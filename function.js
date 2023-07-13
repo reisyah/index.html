@@ -1,46 +1,6 @@
 
-function nsch5() {
-            var frame = document.getElementById("vidio");
-            frame.src = "go:nsch5";
-}
 
-
-function nsch6() {
-            var frame = document.getElementById("vidio");
-            frame.src = "go:nsch6";
-}
-function nschfree() {
-            var frame = document.getElementById("vidio");
-            frame.src = "go:nschfree";
-}
-
-function nsch205() {
-            var frame = document.getElementById("vidio");
-            frame.src = "go:nsch205";
-}
-function nsch13560() {
-            var frame = document.getElementById("vidio");
-            frame.src = "go:nsch13560";
-}
-
-function nsch13561() {
-            var frame = document.getElementById("vidio");
-            frame.src = "go:nsch13561";
-}
-
-function nsch13696() {
-            var frame = document.getElementById("vidio");
-            frame.src = "go:nsch13696";
-}
-
-function nsch206() {
-            var frame = document.getElementById("vidio");
-            frame.src = "go:nsch206";
-}
-function avcauto() {
-            var frame = document.getElementById("vidio");
-            frame.src = "go:avcauto";
-}
+// ngalihin ke web player
 
 function indosialp205() {
             var frame = document.getElementById("vidio");
@@ -65,29 +25,14 @@ function vidiop13610() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/zhetv6";
         }            
-        
  
-function yt2() {
-            var frame = document.getElementById("vidio");
-            frame.src = "https://www.youtube.com/embed/XZ-E0Qk3N7c";
-        }
- 
-function yt3() {
-            var frame = document.getElementById("vidio");
-            frame.src = "https://live.fc2.com/embedPlayer.php?id=79129629&lang=en&adultaccess=0&suggest=1&thumbnail=1&afid=0";
-        }
- function yt4() {
-            var frame = document.getElementById("vidio");
-            frame.src = "https://play.afreecatv.com/putra4/embed";
-        }
-
     function yt5() {
             var frame = document.getElementById("vidio");
             frame.src = "https://lsbtv3.livestreaming.repl.co/player2.html?file=https://sagalada.shop/live/sd-1-3937822.m3u8";
    }
    function p2avc13696() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://reisyah.github.io/player/player2.html?file=https://stripriv.herokuapp.com/hls.m3u8?id=13696";
+            frame.src = "https://reisyah.github.io/player/player2.html?file=https://stripriv.herouapp.com/hls.m3u8?id=13696";
    }
    function pidio2() {
             var frame = document.getElementById("vidio");
@@ -173,6 +118,53 @@ function p2soco4() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8";
 }    
+
+
+
+// ngalihin ke aplikasi
+
+function nsch5() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nsch5";
+}
+
+
+function nsch6() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nsch6";
+}
+function nschfree() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nschfree";
+}
+
+function nsch205() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nsch205";
+}
+function nsch13560() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nsch13560";
+}
+
+function nsch13561() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nsch13561";
+}
+
+function nsch13696() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nsch13696";
+}
+
+function nsch206() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nsch206";
+}
+function avcauto() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:avcauto";
+}
         function vidiochlow() {
             var frame = document.getElementById("vidio");
             frame.src = "go:vidiolow";
@@ -207,7 +199,23 @@ function vidiofhd2() {
             var frame = document.getElementById("vidio");
             frame.src = "go:vidiofhd";
         }
-        
+
+function rpluslow() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:rpluslow";
+        }
+    function rplussd() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:rplussd";
+        }    
+function rplushd() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:rplushd";
+        }
+function rplusfhd() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:rplusfhd";
+}
 
 
    function kzb71() {
@@ -314,6 +322,10 @@ function go3() {
             var frame = document.getElementById("vidio");
             frame.src = "go:rcti2";
         }
+function goinewsvp() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:inewsvp";
+}
         
 function c1() {
             var frame = document.getElementById("vidio");
@@ -370,7 +382,19 @@ function ss3hd() {
             var frame = document.getElementById("vidio");
             frame.src = "https://mncsport3hd.livestreaming.repl.co";
 }
-   
+   function soccerch() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://sbolongo.xyz/ice/soccerch.html";
+   }
+function soccerch2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://sbolongo.xyz/ice/soccerch.html";
+}
+
+function inewsvp() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://sbolongo.xyz/ice/inews.html";
+        }
  
 function spotv2() {
             var frame = document.getElementById("vidio");
