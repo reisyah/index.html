@@ -161,9 +161,9 @@ function nsch206() {
             var frame = document.getElementById("vidio");
             frame.src = "go:nsch206";
 }
-function avcauto() {
+function nschss3hd() {
             var frame = document.getElementById("vidio");
-            frame.src = "go:avcauto";
+            frame.src = "go:nschss3hd";
 }
         function vidiochlow() {
             var frame = document.getElementById("vidio");
