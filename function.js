@@ -15,13 +15,17 @@ function vidiop13610() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/jwplayer/hls.html?file=https://deptokv1.herokuapp.com/index.php?id=13610";
 }
+function vidiop13797() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/jwplayer/hls.html?file=https://deptokv1.herokuapp.com/index.php?id=13797";
+}
 
 
-  function indosialch13558() {
+  function indosialch5() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/zhetv5";
         }      
-  function indosialch13559() {
+  function indosialch6() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/zhetv6";
         }            
@@ -133,9 +137,13 @@ function nsch6() {
             var frame = document.getElementById("vidio");
             frame.src = "go:nsch6";
 }
-function nschfree() {
+function nschfree1() {
             var frame = document.getElementById("vidio");
-            frame.src = "go:nschfree";
+            frame.src = "go:nschfree1";
+}
+function nschfree2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nschfree2";
 }
 
 function nsch205() {
