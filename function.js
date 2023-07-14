@@ -372,7 +372,7 @@ function mncsp1() {
  
  function ss31() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://sbolongo.xyz/ice/mncs3.html";
+            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar3hd.html";
         }
    function ss32() {
             var frame = document.getElementById("vidio");
@@ -389,7 +389,7 @@ function ss3hd() {
 }
    function soccerch() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://sbolongo.xyz/ice/soccerch.html";
+            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/soccerch.html";
    }
 function soccerch2() {
             var frame = document.getElementById("vidio");
@@ -403,12 +403,12 @@ function inewsvp() {
  
 function spotv2() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://spotv2.livestreaming.repl.co";
+            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/spotv2.html";
         }
  
  function spotv1() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://pisionplus.livebola.repl.co/spotv.html";
+            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/spotv.html";
         }
  
  function spotvon() {
