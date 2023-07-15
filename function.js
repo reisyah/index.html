@@ -28,7 +28,11 @@ function vidiop13797() {
   function indosialch6() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/zhetv6";
-        }            
+        }  
+function indosialchdl1() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:dl1";
+        }      
  
     function yt5() {
             var frame = document.getElementById("vidio");
