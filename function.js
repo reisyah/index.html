@@ -21,17 +21,21 @@ function vidiop2free1() {
 }
 
 
-  function indosialch5() {
+  function indosiarc5() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/zhetv5";
         }      
-  function indosialch6() {
+  function indosiarc6() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/zhetv6";
         }  
 function indosialchdl1() {
             var frame = document.getElementById("vidio");
             frame.src = "go:dl1";
+        }      
+ function indosiarl1() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:indosiarl1";
         }      
  
     function yt5() {
