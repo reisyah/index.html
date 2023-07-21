@@ -4,20 +4,20 @@
 
 function indosialp205() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/jwplayer/hls.html?file=https://deptokv1.herokuapp.com/index.php?id=205";
+            frame.src = "https://reisyah.github.io/player/player2.html?file=https://my-vidio.mystream.workers.dev/index.m3u8?id=205";
         }
 function vidiop13561() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/jwplayer/hls.html?file=https://deptokv1.herokuapp.com/index.php?id=13561";
 }
 
-function vidiop13610() {
+function vidiop2free2() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/jwplayer/hls.html?file=https://deptokv1.herokuapp.com/index.php?id=13610";
+            frame.src = "https://reisyah.github.io/player/player2.html?file=https://my-vidio.mystream.workers.dev/index.m3u8?id=13610";
 }
-function vidiop13797() {
+function vidiop2free1() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/jwplayer/hls.html?file=https://deptokv1.herokuapp.com/index.php?id=13797";
+            frame.src = "https://reisyah.github.io/player/player2.html?file=https://my-vidio.mystream.workers.dev/index.m3u8?id=13797";
 }
 
 
