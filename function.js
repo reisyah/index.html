@@ -386,6 +386,10 @@ function mncsp1() {
             var frame = document.getElementById("vidio");
             frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar3hd.html";
         }
+function ss4() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar4.html";
+}
    function ss32() {
             var frame = document.getElementById("vidio");
             frame.src = "https://mncsport3.livestreaming.repl.co";
