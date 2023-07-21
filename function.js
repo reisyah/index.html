@@ -164,9 +164,9 @@ function nsch13561() {
             frame.src = "go:nsch13561";
 }
 
-function nsch13696() {
+function nschsvl() {
             var frame = document.getElementById("vidio");
-            frame.src = "go:nsch13696";
+            frame.src = "go:nschsvl";
 }
 
 function nsch206() {
