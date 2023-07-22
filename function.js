@@ -386,9 +386,9 @@ function mncsp1() {
             frame.src = "https://arjunaaaaa.github.io/nyuri/tv/olahraga/tycs.html";
         }          
  
- function ss31() {
+ function ss3() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar3hd.html";
+            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar3.html";
         }
 function ss4() {
             var frame = document.getElementById("vidio");
@@ -405,8 +405,9 @@ function ss4() {
    }
 function ss3hd() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://mncsport3hd.livestreaming.repl.co";
+            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar3hd.html";
 }
+
    function soccerch() {
             var frame = document.getElementById("vidio");
             frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/soccerch.html";
