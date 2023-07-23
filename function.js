@@ -179,7 +179,7 @@ function nsch206() {
 }
 function nschss3hd() {
             var frame = document.getElementById("vidio");
-            frame.src = "go:nschss3hd";
+            frame.src = "go:nsss3hd";
 }
         function vidiochlow() {
             var frame = document.getElementById("vidio");
