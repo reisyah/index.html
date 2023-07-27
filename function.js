@@ -37,6 +37,11 @@ function indosialchdl1() {
             var frame = document.getElementById("vidio");
             frame.src = "go:indosiarl1";
         }      
+
+function indosiar2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:indosiar2";
+        }      
  
     function yt5() {
             var frame = document.getElementById("vidio");
