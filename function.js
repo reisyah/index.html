@@ -43,10 +43,14 @@ function indosiar2() {
             frame.src = "go:indosiar2";
         }      
  
-    function yt5() {
+    function phuman1() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://lsbtv3.livestreaming.repl.co/player2.html?file=https://sagalada.shop/live/sd-1-3937822.m3u8";
+            frame.src = "https://player.huminbird.cn/detail.html?v=102&mid=3945744&type=1&pid=7&isTips=1&isLogin=0&sbtcolor=4368fe&pfont=30px";
    }
+function phuman2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://player.huminbird.cn/detail.html?v=102&mid=3945744&type=1&pid=7&isTips=1&isLogin=0&sbtcolor=4368fe&pfont=30px";
+}
    function p2avc13696() {
             var frame = document.getElementById("vidio");
             frame.src = "https://reisyah.github.io/player/player2.html?file=https://stripriv.herouapp.com/hls.m3u8?id=13696";
