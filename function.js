@@ -221,6 +221,23 @@ function vidiofhd2() {
             frame.src = "go:vidiofhd";
         }
 
+function vidiochlow3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:vchlow";
+        }
+    function vidiochsd3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:vchsd";
+        }    
+function vidiochhd3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:vchhd";
+        }
+function vidiofhd3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:vfhd";
+}
+
 function rpluslow() {
             var frame = document.getElementById("vidio");
             frame.src = "go:rpluslow";
