@@ -2,6 +2,71 @@
 
 // ngalihin ke web player
 
+
+function jwvidiochfhd() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/player/jwplayer/hls.html?file=https://dandisuwo.github.io/vidio1/chfhd.m3u8";
+}
+
+function jwvidiochhd() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/player/jwplayer/hls.html?file=https://dandisuwo.github.io/vidio1/chhd.m3u8";
+}
+
+function jwvidiochlow() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/player/jwplayer/hls.html?file=https://dandisuwo.github.io/vidio1/chlow.m3u8";
+}
+
+function jwvidiochsd() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/player/jwplayer/hls.html?file=https://dandisuwo.github.io/vidio1/chsd.m3u8";
+}
+
+
+
+function jwvidiochfhd2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/player/jwplayer/hls.html?file=https://dandisuwo.github.io/vidio2/chfhd.m3u8";
+}
+
+function jwvidiochhd2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/player/jwplayer/hls.html?file=https://dandisuwo.github.io/vidio2/chhd.m3u8";
+}
+
+function jwvidiochlow2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/player/jwplayer/hls.html?file=https://dandisuwo.github.io/vidio2/chlow.m3u8";
+}
+
+function jwvidiochsd2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/player/jwplayer/hls.html?file=https://dandisuwo.github.io/vidio2/chsd.m3u8";
+}
+
+
+function jwvidiochfhd3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/player/jwplayer/hls.html?file=https://dandisuwo.github.io/vidio3/chfhd.m3u8";
+}
+
+function jwvidiochhd3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/player/jwplayer/hls.html?file=https://dandisuwo.github.io/vidio3/chhd.m3u8";
+}
+
+function jwvidiochlow3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/player/jwplayer/hls.html?file=https://dandisuwo.github.io/vidio3/chlow.m3u8";
+}
+
+function jwvidiochsd3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/player/jwplayer/hls.html?file=https://dandisuwo.github.io/vidio3/chsd.m3u8";
+}
+
+
 function indosialp205() {
             var frame = document.getElementById("vidio");
             frame.src = "https://reisyah.github.io/player/player2.html?file=https://my-vidio.mystream.workers.dev/index.m3u8?id=205";
