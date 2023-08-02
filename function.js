@@ -203,7 +203,7 @@ function p2soco4() {
 }
     function youtube1() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://stream.zhetv.eu.org/event/8";
+            frame.src = "https://reisyah.github.io/player/zhetvc8.html";
 }    
 
 
