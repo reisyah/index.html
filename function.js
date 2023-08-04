@@ -228,6 +228,10 @@ function nschfree2() {
             var frame = document.getElementById("vidio");
             frame.src = "go:nschfree2";
 }
+function nschrplus1() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nschrplus1";
+}
 
 function nsch205() {
             var frame = document.getElementById("vidio");
@@ -567,13 +571,13 @@ function spotv2() {
             var frame = document.getElementById("vidio");
             frame.src = "https://embed.rctiplus.com/live/inews/inewsid";
         }  
-        function rcti() {
+        function rctirp() {
             var frame = document.getElementById("vidio");
             frame.src = "https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGcmN0aS";
         }   
-function rcti2() {
+function rctivp() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://rcti.livestreaming.repl.co";
+            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvnasional/rcti.html";
         }   
         
         function mnctv() {
