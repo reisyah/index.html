@@ -567,13 +567,25 @@ function spotv2() {
             var frame = document.getElementById("vidio");
             frame.src = "https://mulung--bolaboka.repl.co/";
         }   
-        function inews() {
+        function inewsrp() {
             var frame = document.getElementById("vidio");
             frame.src = "https://embed.rctiplus.com/live/inews/inewsid";
         }  
-        function rctirp() {
+        function inewsrp2() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGcmN0aS";
+            frame.src = "https://embed.rctiplus.com/live/inews/okezone";
+        }   
+function rctivp() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvnasional/inews.html";
+        }   
+function rctirp() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://embed.rctiplus.com/live/rcti/okezone";
+        }   
+function rctirp2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://embed.rctiplus.com/live/rcti/inewsid";
         }   
 function rctivp() {
             var frame = document.getElementById("vidio");
