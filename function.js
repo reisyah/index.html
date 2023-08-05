@@ -97,7 +97,11 @@ function vidiop2free1() {
 function indosiarc52() {
             var frame = document.getElementById("vidio");
             frame.src = "https://reisyah.github.io/tvsport/liga1ch5.html";
-        }      
+        }
+function indosiarc52jw() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/tvsport/liga1ch5jw.html";
+}
  function indosiarl1() {
             var frame = document.getElementById("vidio");
             frame.src = "go:indosiarl1";
