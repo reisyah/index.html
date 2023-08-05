@@ -522,10 +522,7 @@ function soccerch2() {
             frame.src = "https://sbolongo.xyz/ice/soccerch.html";
 }
 
-function inewsvp() {
-            var frame = document.getElementById("vidio");
-            frame.src = "https://sbolongo.xyz/ice/inews.html";
-        }
+
  
 function spotv2() {
             var frame = document.getElementById("vidio");
