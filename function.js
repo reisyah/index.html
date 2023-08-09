@@ -88,12 +88,21 @@ function vidiop2free1() {
 
   function indosiarc5() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/zhetv5";
+            frame.src = "https://reisyah.github.io/embed/zhetv_c5.html";
         }      
   function indosiarc6() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/zhetv6";
+            frame.src = "https://reisyah.github.io/embed/zhetv_c6.html";
         }  
+function indosiarc7() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/embed/zhetv_c7.html";
+        }      
+  function indosiarc8() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/embed/zhetv_c8.html";
+        }  
+
 function indosiarc52() {
             var frame = document.getElementById("vidio");
             frame.src = "https://reisyah.github.io/tvsport/liga1ch5.html";
