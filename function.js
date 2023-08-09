@@ -261,10 +261,8 @@ function nsch205() {
             frame.src = "go:nsch205";
 }
 
-function nsch8() {
-            var frame = document.getElementById("vidio");
-            frame.src = "go:live8";
-}
+
+
 function nsch13560() {
             var frame = document.getElementById("vidio");
             frame.src = "go:nsch13560";
