@@ -224,6 +224,16 @@ function nsch6() {
             var frame = document.getElementById("vidio");
             frame.src = "go:nsch6";
 }
+
+function nsch7() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nsch7";
+}
+
+function nsch8() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:nsch8";
+}
 function nschfree1() {
             var frame = document.getElementById("vidio");
             frame.src = "go:nschfree1";
