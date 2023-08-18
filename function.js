@@ -130,23 +130,23 @@ function phuman2() {
             var frame = document.getElementById("vidio");
             frame.src = "https://player.huminbird.cn/detail.html?v=102&mid=3945759&type=1&pid=7&isTips=1&isLogin=0&sbtcolor=4368fe&pfont=30px";
 }
-   function p2avc13696() {
+   function sctv15vn() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://reisyah.github.io/player/player2.html?file=https://stripriv.herouapp.com/hls.m3u8?id=13696";
+            frame.src = "https://reisyah.github.io/player/jwplayer/mp4.html?file=https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/lsbtv.m3u8?&gons=go:nssctv15vn";
    }
-   function pidio2() {
+   function vtv6() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://deptokv1.herokuapp.com/index.php?id=13448";
+            frame.src = "https://reisyah.github.io/player/jwplayer/mp4.html?file=https://dandisuwo.github.io/vietnam/tv360/vtv6.m3u8?&gons=go:nsvtv6";
    }
 https://arjunaaaaa.github.io/nyuri/pemutar/player.html?file=https://deptokv1.herokuapp.com/index.php?id=13226
-function sd() {
+function rtbaneka() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://lsbtv3.livestreaming.repl.co/player1.html?file=https://etslive-2-vidio-com.akamaized.net/exp=1687095634~acl=/hls-p/ingest_13097_*/*~hmac=51a87608178c4826f176cc7467718d2cbb85e2a273533f75cd4468ca3203e047/hls-p/ingest_13097_360p/index.m3u8";
+            frame.src = "https://reisyah.github.io/player/jwplayer/mp4.html?file=https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8?&gons=go:nsrtbaneka";
 }
 
-   function hd() {
+   function rtblive() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://v3.sportsonline.sx/channels/hd/hd2.php";
+            frame.src = "https://reisyah.github.io/player/jwplayer/mp4.html?file=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8?&gons=go:nsrtblive";
    }
 function hd2() {
             var frame = document.getElementById("vidio");
