@@ -98,6 +98,13 @@ function indosiarc7() {
             var frame = document.getElementById("vidio");
             frame.src = "https://reisyah.github.io/embed/zhetv_c7.html";
         }      
+
+function indosiarc72() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/embed/index.html?file=https://stream.zhetv.eu.org/sport/sky/racing";
+        }      
+
+
   function indosiarc8() {
             var frame = document.getElementById("vidio");
             frame.src = "https://reisyah.github.io/embed/zhetv_c8.html";
