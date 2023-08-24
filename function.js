@@ -157,7 +157,7 @@ function phuman2() {
 }
    function sctv15vn() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://reisyah.github.io/player/jwplayer/mp4.html?file=https://e7.endpoint.cdn.sctvonline.vn/live/SCTV15HD/playlist.m3u8?&gons=go:nssctv15vn";
+            frame.src = "https://reisyah.github.io/player/jwplayer/hls.html?file=https://code.vthanhtivi.pw/getlink/sctvonline/sctv15/playlist.m3u8?&gons=go:nssctv15vn";
    }
    function vtv6() {
             var frame = document.getElementById("vidio");
