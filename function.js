@@ -126,6 +126,12 @@ function sukanrtm() {
             var frame = document.getElementById("vidio");
             frame.src = "https://reisyah.github.io/tvsport/sukanrtm.html";
 }
+function rtbaneka() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/player/jwplayer/mp4.html?file=https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8?&gons=go:nsrtbaneka";
+}
+
+
  function indosiarl1() {
             var frame = document.getElementById("vidio");
             frame.src = "go:indosiarl1";
