@@ -122,6 +122,10 @@ function indosiarc52jw() {
             var frame = document.getElementById("vidio");
             frame.src = "https://reisyah.github.io/tvsport/liga1ch5jw.html";
 }
+function sukanrtm() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://reisyah.github.io/tvsport/sukanrtm.html";
+}
  function indosiarl1() {
             var frame = document.getElementById("vidio");
             frame.src = "go:indosiarl1";
