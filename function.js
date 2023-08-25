@@ -111,7 +111,7 @@ function indosiarc72() {
         }  
 function indosiarc82() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://reisyah.github.io/embed/index.html";
+            frame.src = "https://reisyah.github.io/embed/zhetv_c82.html";
         }  
 
 function indosiarc52() {
