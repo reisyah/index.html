@@ -363,6 +363,32 @@ function vidiofhd3() {
             frame.src = "go:vfhd";
 }
 
+function event5() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:event5";
+}
+function event6() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:event6";
+}
+
+function event7() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:event7";
+}
+function event8() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:event8";
+}
+
+function event9() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:event9";
+}
+function event10() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:event10";
+}
 function rpluslow() {
             var frame = document.getElementById("vidio");
             frame.src = "go:rpluslow";
