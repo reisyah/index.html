@@ -644,7 +644,7 @@ function spotv2() {
             var frame = document.getElementById("vidio");
             frame.src = "https://embed.rctiplus.com/live/inews/okezone";
         }   
-function rctivp() {
+function inewsvp() {
             var frame = document.getElementById("vidio");
             frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvnasional/inews.html";
         }   
