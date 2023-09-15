@@ -1,5 +1,1 @@
-function redirectPage() {
-  window.location.href = "https://www.contoh.com"; 
-}
-
-redirectPage();
+if (window == window.top) document.location = "https://t.me/lsbtv"
