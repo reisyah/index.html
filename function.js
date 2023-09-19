@@ -2,6 +2,15 @@
 
 // ngalihin ke web player
 
+function astroag31() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/astor/5132.html?lsbtv=https://1.yurend.xyz/dash-wv/linear/5132/default_ott.mpd";
+}
+
+function astroag32() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/astor/5132.html?lsbtv=https://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/5132/default.mpd";
+}
 
 function jwvidiochfhd() {
             var frame = document.getElementById("vidio");
