@@ -11,6 +11,12 @@ function astroag32() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/astor/5132.html?lsbtv=https://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/5132/default.mpd";
 }
+function mewatchag3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/sayalihat/mwag3.html?lsbtv=https://mwmpos02.akamaized.net/out/v1/5b52a13f709640b587bc825b4683fbd6/manifest.mpd";
+}
+
+
 
 function jwvidiochfhd() {
             var frame = document.getElementById("vidio");
