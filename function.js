@@ -19,6 +19,10 @@ function mewatchag5() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/sayalihat/mwag5.html?lsbtv=https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.mpd";
 }
+function mewatchag6() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/sayalihat/mwag6.html?lsbtv=https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd";
+}
 
 
 function jwvidiochfhd() {
