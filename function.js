@@ -668,7 +668,7 @@ function spotv2() {
         }   
 function inewsvp() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvnasional/inews.html";
+            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvnasional/inewsvp.html";
         }   
 function rctirp() {
             var frame = document.getElementById("vidio");
@@ -683,9 +683,9 @@ function rctivp() {
             frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvnasional/rcti.html";
         }   
         
-        function mnctv() {
+        function mnctvvp() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://embed.rctiplus.com/live/mnctv/inewsid";
+            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvnasional/mnctvvp.html";
         }   
         
         function refreshPage() {
