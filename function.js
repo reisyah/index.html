@@ -580,7 +580,15 @@ function mncsp1() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/tv/olahraga/tycs.html";
         }          
- 
+ function ss1() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar.html";
+ }
+
+function ss2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar2.html";
+ }
  function ss3() {
             var frame = document.getElementById("vidio");
             frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar3.html";
