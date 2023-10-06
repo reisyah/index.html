@@ -582,16 +582,16 @@ function mncsp1() {
         }          
  function ss1() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar.html";
+            frame.src = "https://reisyah.github.io/tvsport/sportstar.html";
  }
 
 function ss2() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar2.html";
+            frame.src = "https://reisyah.github.io/tvsport/sportstar2.html";
  }
  function ss3() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar3.html";
+            frame.src = "https://reisyah.github.io/tvsport/sportstar3.html";
  }
   function ss32() {
             var frame = document.getElementById("vidio");
@@ -600,24 +600,24 @@ function ss2() {
    
    function jwss3hd() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/player/jwplayer/mpd.html?keyid=fadd2720deff5925ab86df0819cd7775&key=f67ff08c7ebc779f6a6fcfc83835f65b&file=https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd&ns=go:nsss3hd";
+            frame.src = "https://reisyah.github.io/player/jwplayer/mpd.html?keyid=fadd2720deff5925ab86df0819cd7775&key=f67ff08c7ebc779f6a6fcfc83835f65b&file=https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd&ns=go:nsss3hd";
    }
 function ss3hd() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar3hd.html";
+            frame.src = "https://reisyah.github.io/tvsport/sportstar3hd.html";
 }
 function ss4() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/sportstar4.html";
+            frame.src = "https://reisyah.github.io/tvsport/sportstar4.html";
 }
 function jwss4() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/player/jwplayer/mpd.html?keyid=b81b1942c65f35547ced1bff074206a5&key=a07dc4d86f51db7195f4b7e2abe9d9e8&file=https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd&ns=go:nsss4";
+            frame.src = "https://reisyah.github.io/player/jwplayer/mpd.html?keyid=b81b1942c65f35547ced1bff074206a5&key=a07dc4d86f51db7195f4b7e2abe9d9e8&file=https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd&ns=go:nsss4";
 }
 
    function soccerch() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvsport/soccerch.html";
+            frame.src = "https://reisyah.github.io/tvsport/soccerch.html";
    }
 function soccerch2() {
             var frame = document.getElementById("vidio");
