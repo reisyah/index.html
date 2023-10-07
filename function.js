@@ -411,6 +411,11 @@ function event10() {
             var frame = document.getElementById("vidio");
             frame.src = "go:event10";
 }
+
+
+
+// RCTI PLUS
+            
 function rpluslow() {
             var frame = document.getElementById("vidio");
             frame.src = "go:rpluslow";
@@ -426,6 +431,27 @@ function rplushd() {
 function rplusfhd() {
             var frame = document.getElementById("vidio");
             frame.src = "go:rplusfhd";
+}
+
+
+
+
+
+function vchlow() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:vchlow";
+        }
+    function vchsd() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:vchsd";
+        }    
+function vchhd() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:vchhd";
+        }
+function vchfhd() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:vchfhd";
 }
 
 
@@ -688,12 +714,12 @@ function rctirp2() {
         }   
 function rctivp() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvnasional/rcti.html";
+            frame.src = "https://reisyah.github.io/tvnasional/rcti.html";
         }   
         
-        function mnctvvp() {
+function mnctvvp() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://api.allorigins.win/raw?url=https://reisyah.github.io/tvnasional/mnctvvp.html";
+            frame.src = "https://reisyah.github.io/tvnasional/mnctvvp.html";
         }   
         
         function refreshPage() {
