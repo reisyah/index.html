@@ -1,6 +1,3 @@
-
- 
-<script> 
 async function init() { 
 const video = document.getElementById('video'); 
 const ui = video['ui']; 
@@ -39,6 +36,3 @@ function onUIErrorEvent(errorEvent) {onPlayerError(event.detail);}
 function initFailed(errorEvent) {console.error('Unable to load the UI library!');} 
 document.addEventListener('shaka-ui-loaded', init); 
 document.addEventListener('shaka-ui-load-failed', initFailed); 
-</script>
-
-</html>
