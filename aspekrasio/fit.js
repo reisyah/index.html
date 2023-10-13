@@ -12,7 +12,7 @@ const config = {
    ui.configure(config);
 const controls = ui.getControls(); 
 const player = controls.getPlayer(); 
-const punya_lsbtv = 'https://pidio.livestreamingbolatv4.workers.dev/https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd';
+const punya_lsbtv = 'https://pidio.livestreamingbolatv6.workers.dev/https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd';
 player.configure({
   drm: {
    clearKeys: {
